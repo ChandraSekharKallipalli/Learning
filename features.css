@@ -1,0 +1,36 @@
+
+ul.featured-skills {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  li.skill {
+    background: #fafafa;
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    flex: 1 200px;
+    padding: 1rem;
+  }
+  
+  
+  /* Styles to make the demo pretty */
+  
+  section {
+    /* padding: 1rem 5%; */
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  h2 {
+    font-size: 2.33rem;
+    text-align: center;}
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
